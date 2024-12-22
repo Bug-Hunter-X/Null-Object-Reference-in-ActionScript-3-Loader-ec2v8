@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript 3 error and its solution. The bug involves a null object reference occurring when accessing a child MovieClip from a SWF loaded using a Loader. The solution implements robust error handling to prevent the application from crashing.
